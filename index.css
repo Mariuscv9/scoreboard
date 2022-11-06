@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+width: 575px;
+height: 385px;
+
+background: #1B244A;
+text-align: center;
+}
+
+h3 {
+color: #EEEEEE;
+font-size: 40px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: start;
+margin-left: 8px;
+}
+
+h1 {
+    font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+color: #F94F6D;
+padding-top: 5px;
+}
+.scor {
+    background: #080001;
+border-radius: 5px;
+width: 155px;
+height: 120px;
+margin-top: -40px
+}
+
+.butoane button {
+    box-sizing: border-box;
+width: 45px;
+height: 45px;
+margin-top: 26px;
+margin-right:7px;
+background: none;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
